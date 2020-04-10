@@ -50,6 +50,13 @@ nav ul li {
   margin-left: 20px;
 }
 
+.wrapper {
+  float: left;
+  display: inline-block;
+  list-style: none;
+  margin-right: 20px;
+}
+
 .wrapper1 {
   float: right;
   display: inline-block;
